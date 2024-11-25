@@ -1,0 +1,23 @@
+body{
+    background-image: url(../assets/Imagens/fundo.png);
+}
+
+.menu{
+    background-color: aliceblue;
+}
+
+#Principal{
+    width: 900px;
+    
+    align-items: center;
+}
+li{
+    list-style: none;
+    
+}
+.sobre{
+    text-align: justify;
+    background-color: white;
+    padding: 15px;
+}
+
