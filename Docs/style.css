@@ -3,12 +3,13 @@ body{
 }
 
 .menu{
-    background-color: aliceblue;
+    background-color: rgb(180, 178, 178);
+    padding:  15px;
 }
 
 #Principal{
     width: 900px;
-    
+    border: 5px;
     align-items: center;
 }
 li{
@@ -19,5 +20,8 @@ li{
     text-align: justify;
     background-color: white;
     padding: 15px;
+}
+.foto{
+    border: 3px solid gray;
 }
 
